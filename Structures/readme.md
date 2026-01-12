@@ -9,4 +9,6 @@ I think it is a play material in playground for kids
 [your best guess - its just a play material for kids to up and down]
 
 ## Questions I Have
-[What don't you know yet?]
+
+
+![20260112_112325](https://github.com/user-attachments/assets/0141fb3e-8584-43b6-8e4c-49cbc330773a)

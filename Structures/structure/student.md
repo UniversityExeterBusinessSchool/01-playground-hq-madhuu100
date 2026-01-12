@@ -13,7 +13,7 @@ I could see a pattern that depict a pyramid
 I think it is a play material in playground for kids
 
 ## WHAT THIS COULD BE
-[your best guess - a just a play material for kids to up and down]
+[your best guess - its just a play material for kids to up and down]
 
 
 

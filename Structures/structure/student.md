@@ -6,7 +6,7 @@
 TYPE: PYRAMID
 COLOR: YELLOW
 
-##WHAT I SEE IN MY DEVICE
+## WHAT I SEE IN MY DEVICE
 I could see a pattern that depict a pyramid
 
 ## WHAT I THINK THIS MEANS

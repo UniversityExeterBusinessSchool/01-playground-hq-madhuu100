@@ -1,8 +1,7 @@
 # My Structure - Student XX
 
 ## What I See in My Data
-[Describe the codes, letters, numbers]
-
+I could see a pattern that depict a pyramid
 ## What I Think This Means
 [Interpret the patterns]
 
